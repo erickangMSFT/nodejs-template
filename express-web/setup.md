@@ -8,6 +8,7 @@ npm install
 
 npm install gulp --save
 npm install gulp-nodemon --save
+touch gulpfile.js
 ```
 
 ```javascript
